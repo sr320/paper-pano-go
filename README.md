@@ -14,6 +14,6 @@ To get started you can fork and submit a pull request. Submit pull request **ear
 
 For those of you that will be doing lots of revisions, I can also add you as a collaborator, thus you become an "owner" and can make changes like any of your own repositories.
 
-For any analysis used to create results include that information in the repository also (for example [this nb](https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/00-Quality-Assessment.ipynb) has some QC analysis.
+For any analysis used to create results include that information in the repository also (for example [this nb](https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/00-Quality-Assessment.ipynb) has some QC analysis.)
 
 Please use [issues](https://github.com/sr320/paper-pano-go/issues) to ask any questions you have about content, github, or to note places in the paper that need attention
