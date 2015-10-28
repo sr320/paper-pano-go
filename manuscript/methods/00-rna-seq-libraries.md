@@ -6,9 +6,3 @@ All samples were quantified using a NanoDrop1000 (Thermo Fisher Scientific). RNA
 
 Two pools of RNA (male RNA and female RNA) were prepared for RNA-seq. Both pools contained equal quantities of RNA from each developmental stage. Library preparations and sequencing were performed by GeneWiz, Inc. Libraries were constructed using the Ultra RNA Library Preparation Kit (New England Biolabs). Both libraries were sequenced on a single lane of the HiSeq2500 (Illumina) sequencer.
 
-This is testing my fork.
-
-Check it out.
-
-
-After your first edit I am editing again
