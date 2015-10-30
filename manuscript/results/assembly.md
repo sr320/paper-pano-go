@@ -1,4 +1,13 @@
-# Assembly
+**Assembly**
+
+De novo assembly resulted in a total of 154407 transcripts...
+
+
+
+
+
+
+
 
 ```
 /Users/gilesg/compile/trinityrnaseq_r20131110/util/TrinityStats.pl /Volumes/web-1/cnidarian/Geo-Trinity2/trinity_out_dir/Trinity.fasta
