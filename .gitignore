@@ -1,2 +1,5 @@
 
 data-results/Geoduck-transcriptome-v2.fasta
+
+jupyter-nbs/.ipynb_checkpoints/
+jupyter-nbs/.ipynb_checkpoints/00-Quality-Assessment-checkpoint.ipynb
