@@ -4,7 +4,7 @@ De novo assembly resulted in a total of 154407 transcripts (100157 components) w
 
 
 
-
+17288 proteins annot SP
 
 
 
