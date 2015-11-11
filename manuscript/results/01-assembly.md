@@ -1,6 +1,6 @@
 **Assembly**
 
-De novo assembly resulted in a total of 154407 transcripts (100157 components) with an average contig length of 659bp and an N50 value of 1014bp (Fig ). The corresponding proteome was predicted to contain 35951 proteins. 
+De novo assembly resulted in a total of 154407 transcripts (100157 components) with an average contig length of 659bp and an N50 value of 1014bp (Fig ). The corresponding proteome was predicted to contain 35951 proteins. However, only 19652 *(check with annotation results later, see issue Data difference)*
 
 <img src="https://github.com/mdelrio1/mdelrio-panopea1/blob/master/img/seq-distribution-frequency.png"/ width = 50%>
 
