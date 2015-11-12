@@ -1,1 +1,1 @@
-Cpg
+SNPS
