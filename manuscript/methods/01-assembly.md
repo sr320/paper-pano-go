@@ -1,4 +1,6 @@
-Assembly
+**Sequence Assembly**
 
+Raw sequence reads were quality trimmed using trim galore (citation) [code/output](https://github.com/sr320/paper-pano-go/wiki/Quality-trim-output), and quality assessed using FastQC (citation). Assembly of sequence reads was carried out using Trinity (citation) using the following parameters...
 
-added some stuff 
+Change to...
+Raw sequence reads were quality trimmed using trim galore (Krueger 2013), and quality assessed using FastQC (Andrews 2010) eliminating adapters and with a 20 quality Phred score cutoff (Ewing et al. 1998[not sure about this reference]). Assembly of sequence reads was carried out using Trinity (Grabherr et al. 2011) with default parameters.
