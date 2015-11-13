@@ -6,4 +6,6 @@ CpG O/E = (number of CpG / number of C x number of G) x (l2/l-1)
 
 where l is the number of nucleotides in the contig.
 
-Only annotated sequences were used for calculation of CpG O/E to increase the likelihood that sequences were oriented in the 5' to 3' direction. For subsequent analyses, we set minimum and maximum limits for CpG O/E at 0.001 and 1.5, respectively, to exclude outliers. Details of germline methylation prediction methods are provided in jupyter notebooks
+Only annotated sequences were used for calculation of CpG O/E to increase the likelihood that sequences were oriented in the 5' to 3' direction.
+
+$$$$NEED TO CHECK AND SEE IF DIRECTION MATTERS$$$$$
