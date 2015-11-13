@@ -1,12 +1,12 @@
 **Assembly**
 
-De novo assembly resulted in a total of 154407 transcripts (100157 components) with an average contig length of 659bp and an N50 value of 1014bp (Fig ) and a GC content of 36.97% *(needed?)*. The corresponding proteome was predicted to contain 35951 proteins. However, only 19652 *(check with annotation results later, see issue Data difference)*
+De novo assembly resulted in a total of 154,407 transcripts (100,157 components) with an average contig length of 659bp and an N50 value of 1014 bp (Fig ) and a GC content of 36.97% *(needed?)*. The corresponding proteome was predicted to contain 35,951 proteins. However, only 19,652 *(check with annotation results later, see issue Data difference)*
 
 <img src="https://github.com/mdelrio1/mdelrio-panopea1/blob/master/img/seq-distribution-frequency.png"/ width = 50%>
 
 Fig. Frequency distribution of assembled contigs from *Panopea generosa* 
 
-17288 proteins annot SP
+17,288 proteins annot SP
 
 
 
