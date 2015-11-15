@@ -3,6 +3,7 @@
 
 Of 153,982 sequences that remained after screening for putative non-eukaryote matches, 22,974 (15%) had similarity with proteins in the Swiss-Prot/Uniprot database.  Corrresponding Biological Process Gene Ontology information was obtained for 19, 393 contigs.
 
+
 Protein similarities were 12.2 % RNA metabolism, 11.5 % transport, 10.6 % protein metabolism and 18.9 % and 17.0 %  with other metabolic and biological processes, respectively (Fig. )
 
 <img src= "../figures/Panopea_annotationNoduplicatesfinal.png"  width = 50%>
