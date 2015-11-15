@@ -1,1 +1,3 @@
 SNPS
+
+Single nucleotide polymorphisms were identified in the transcriptome by ...
