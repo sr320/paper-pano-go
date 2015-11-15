@@ -5,3 +5,8 @@ Of the 154,407 sequences 23,165 (15%) had similarity with proteins in the Swiss-
 <img src=https://github.com/mdelrio1/mdelrio-panopea1/blob/master/img/Panopea_annotationNoduplicatesfinal.png/ width = 50%>
 
 **Figure .** *Panopea generosa* transcriptome gene ontology annotation. 
+
+
+<img src="https://github.com/mdelrio1/mdelrio-panopea1/blob/master/img/Panopea_annotationNoduplicatesnorbacteria.png"/ width = 50%>
+
+**Fig.**  *Panopea generosa* transcriptome gene ontology annotation without bacterial annotation but with reproduction annotation (extracted from other other biological processes).
