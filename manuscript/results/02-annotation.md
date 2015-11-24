@@ -18,7 +18,7 @@ Protein similarities were 12.2 % RNA metabolism, 11.5 % transport, 10.6 % protei
 
 
 
-In comparing the Panopea transcriptome with previously described gene sets two contigs were identifed as putatively sex-specific based on work in _Crassostrea gigas_. This incudes contig comp142444, analogous to Forkhead box protein L2 and comp137246 with homology to actin, cytoplasmic A3a. $$$need to confirm not non-euk$$$.  There were 173 contigs that corresponded to gene identified in _Crassostrea gigas_ to be differentially expressed through gametogenesis. 
+In comparing the Panopea transcriptome with previously described gene sets two contigs were identifed as putatively sex-specific based on work in _Crassostrea gigas_. This incudes contig comp142444, analogous to Forkhead box protein L2 and comp137246 with homology to actin, cytoplasmic A3a and comp142462_c1_seq1	analogous to the sperm-associated antigen 6 (involved in sperm motility). $$$need to confirm not non-euk$$$.  There were 173 contigs that corresponded to gene identified in _Crassostrea gigas_ to be differentially expressed through gametogenesis. 
 
 <img src= "https://github.com/mdelrio1/mdelrio-panopea1/blob/master/img/Panopea_Dheilly_gameto-matches.png" width = 50%>
 
