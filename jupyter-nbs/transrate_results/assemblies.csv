@@ -1,0 +1,2 @@
+assembly,n_seqs,smallest,largest,n_bases,mean_len,n_under_200,n_over_1k,n_over_10k,n_with_orf,mean_orf_percent,n90,n70,n50,n30,n10,gc,gc_skew,at_skew,cpg_ratio,bases_n,proportion_n,linguistic_complexity,score,optimal_score,cutoff
+/Users/sr320/git-repos/paper-pano-go/data-results/Geoduck-transcriptome-v3.fa,153982,201,18024,101695908,660.44023,0,26491,30,25768,53.19085,265,533,1015,1773,3475,0.36939,0.01172,0.0066,1.52103,0,0.0,0.12081,NA,NA,NA

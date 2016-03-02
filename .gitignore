@@ -5,3 +5,12 @@ jupyter-nbs/.ipynb_checkpoints/
 jupyter-nbs/.ipynb_checkpoints/00-Quality-Assessment-checkpoint.ipynb
 
 jupyter-nbs/analyses/Geoduck-transcriptome-v2*
+data-results/Geoduck-transcriptome-v3.fa
+
+data-results/Geoduck-transcriptome-v3.tab
+
+jupyter-nbs/analyses/uniprot_go_info
+
+
+jupyter-nbs/analyses/tr*
+

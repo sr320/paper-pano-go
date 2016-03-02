@@ -6,3 +6,7 @@ Grabherr, Manfred G, Brian J Haas, Moran Yassour, Joshua Z Levin, Dawn A Thompso
 
 Krueger, F. 2013. “Trim Galore. A Wrapper Tool around Cutadapt and FastQC to Consistently Apply Quality and Adapter Trimming to FastQ Files, with Some Extra Functionality for MspI-Digested RRBS-Type (Reduced Representation Bisufite-Seq) Libraries.” http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/.
 
+
+Olson, Claire; Roberts, Steven (2014): Crassostrea gigas male gonad transcriptome data comparison. figshare.
+http://dx.doi.org/10.6084/m9.figshare.1004464
+Retrieved 15:19, Nov 15, 2015 (GMT)
