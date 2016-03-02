@@ -1,6 +1,6 @@
 SNPS
 
-Single nucleotide polymorphisms were identified in the transcriptome by ...
+Single nucleotide polymorphisms were identified in the transcriptome using SAMTools (converting SAM into VCF files)
 
 
 Steve's original suggestion:
