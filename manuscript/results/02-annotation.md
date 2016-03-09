@@ -12,7 +12,7 @@ Protein similarities were 12.2 % RNA metabolism, 11.5 % transport, 10.6 % protei
 **Figure .** *Panopea generosa* transcriptome gene ontology annotation. 
 
 
-<img src= "../figures/Panopea_annotationNoduplicatesnorbacteria.png"  width = 50%>
+<img src= "../figures/Panopea_annotationNoduplicatesnorbacteriaNoother.png"  width = 50%>
 
 **Fig.**  *Panopea generosa* transcriptome gene ontology annotation without bacterial annotation but with reproduction annotation (extracted from other other biological processes).
 
