@@ -13,15 +13,17 @@ Protein similarities were 19.01 % RNA metabolism, 17.93 % transport, 16.42 % pro
 
 <img src= "../figures/Panopea_annotationNoduplicatesnorbacteriaNoother.png"  width = 50%>
 
+**Fig. 1**  *Panopea generosa* transcriptome gene ontology annotation without bacterial annotation but with reproduction annotation (extracted from other other biological processes). Other biological and metabolic processes were removed. 
 
 ![](https://github.com/sr320/paper-pano-go/blob/master/manuscript/figures/BP.PNG)
 
 Proteins similarities were in the same arrangement.
 
 
-**Fig. 1**  *Panopea generosa* transcriptome gene ontology annotation without bacterial annotation but with reproduction annotation (extracted from other other biological processes). Other biological and metabolic processes were removed. 
+![](https://github.com/sr320/paper-pano-go/blob/master/manuscript/figures/Geoduck-tranv3-blastx_P.PNG)
 
-
+**Fig.** The lists of GO terms, were summarized with REVIGO 
+[http://http://revigo.irb.hr/](http://http://revigo.irb.hr/) by clustering semantically close GO terms into categories (in different color) of cellular processes.
 
 In comparing the Panopea transcriptome with previously described gene sets two contigs were identifed as putatively sex-specific based on work in _Crassostrea gigas_. This incudes contig comp142444, analogous to Forkhead box protein L2 and comp137246 with homology to actin, cytoplasmic A3a and comp142462_c1_seq1	analogous to the sperm-associated antigen 6 (involved in sperm motility). $$$need to confirm not non-euk$$$.  There were 173 contigs that corresponded to gene identified in _Crassostrea gigas_ to be differentially expressed through gametogenesis. 
 
