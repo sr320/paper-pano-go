@@ -4,9 +4,20 @@
 Of 153,982 sequences that remained after screening for putative non-eukaryote matches, 22,974 (15%) had similarity with proteins in the Swiss-Prot/Uniprot database.  Corrresponding Biological Process Gene Ontology information was obtained for 19, 393 contigs.
 
 
+![](https://github.com/sr320/paper-pano-go/blob/master/manuscript/figures/BPg.PNG)
+
+From 22,974 contigs only 16,451 correspond to biological process.   
+
+
 Protein similarities were 19.01 % RNA metabolism, 17.93 % transport, 16.42 % protein metabolism and 10.36 % developmental processes (Fig. 1).
 
 <img src= "../figures/Panopea_annotationNoduplicatesnorbacteriaNoother.png"  width = 50%>
+
+
+![](https://github.com/sr320/paper-pano-go/blob/master/manuscript/figures/BP.PNG)
+
+Proteins similarities were in the same arrangement.
+
 
 **Fig. 1**  *Panopea generosa* transcriptome gene ontology annotation without bacterial annotation but with reproduction annotation (extracted from other other biological processes). Other biological and metabolic processes were removed. 
 
