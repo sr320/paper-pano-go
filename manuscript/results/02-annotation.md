@@ -6,7 +6,7 @@ Of 153,982 sequences that remained after screening for putative non-eukaryote ma
 
 ![](https://github.com/sr320/paper-pano-go/blob/master/manuscript/figures/BPg.PNG)
 
-From 22,974 contigs only 16,451 correspond to biological process.   
+**Fig** Distribution of the contigs with Biological process (P), with cellular component (C), and or molecular function (F). Function, contigs, percent (%).
 
 
 Protein similarities were 19.01 % RNA metabolism, 17.93 % transport, 16.42 % protein metabolism and 10.36 % developmental processes (Fig. 1).
