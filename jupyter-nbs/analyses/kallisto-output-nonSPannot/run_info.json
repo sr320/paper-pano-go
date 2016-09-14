@@ -1,0 +1,9 @@
+{
+	"n_targets": 131008,
+	"n_bootstraps": 0,
+	"n_processed": 219925230,
+	"kallisto_version": "0.43.0",
+	"index_version": 10,
+	"start_time": "Wed Sep 14 12:48:21 2016",
+	"call": "/Applications/bioinfo/kallisto/kallisto quant -i analyses/Geoduck-tranv3-nonSPannot.index -o analyses/kallisto-output-nonSPannot /Users/sr320/data-genomic/tentacle/Geoduck_v3/Geo_Pool_M_CTTGTA_L006_R2_001_val_1.fq /Users/sr320/data-genomic/tentacle/Geoduck_v3/Geo_Pool_M_CTTGTA_L006_R1_001_val_2.fq /Users/sr320/data-genomic/tentacle/Geoduck_v3/Geo_Pool_F_GGCTAC_L006_R2_001_val_1.fq /Users/sr320/data-genomic/tentacle/Geoduck_v3/Geo_Pool_F_GGCTAC_L006_R1_001_val_2.fq"
+}
