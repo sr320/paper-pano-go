@@ -20,3 +20,7 @@ data-results/Geoduck-transcriptome-v3.tab.sorted
 jupyter-nbs/analyses/Geoduck-tranv3-nonSPannot.index
 
 information.lic
+
+jupyter-nbs/.DS_Store
+
+.DS_Store
