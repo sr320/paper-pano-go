@@ -1,4 +1,4 @@
-Andrews, S. 2010. “FastQC: A Quality Control Tool for High Throughput Sequence Data.” http://www.bioinformatics.babraham.ac.uk/projects/ fastqc.
+Andrews, S. 2010. “FastQC: A Quality Control Tool for High Throughput Sequence Data.” http://www.bioinformatics.babraham.ac.uk/projects/fastqc.
 
 Ewing, Brent, LaDeana Hillier, Michael C. Wendl, and Phil Green. 1998. “Base-Calling of Automated Sequencer Traces Using Phred. I. Accuracy Assessment.” Genome Research 8 (3) (March 1): 175–185. doi:10.1101/gr.8.3.175. http://europepmc.org/abstract/MED/9521922.
 
