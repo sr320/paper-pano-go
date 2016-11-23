@@ -26,3 +26,5 @@ jupyter-nbs/.DS_Store
 .DS_Store
 
 data-results/.DS_Store
+
+data-results/Geoduck-transcriptome-v3annotated.fa
